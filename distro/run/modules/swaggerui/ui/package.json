@@ -7,7 +7,7 @@
     "build": "npx webpack --mode production"
   },
   "dependencies": {
-    "swagger-ui": "~3.43.0"
+    "swagger-ui": "~5.30.2"
   },
   "devDependencies": {
     "copy-webpack-plugin": "~8.0.0",
